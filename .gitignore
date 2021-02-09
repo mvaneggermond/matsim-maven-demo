@@ -1,0 +1,9 @@
+dependency-reduced-pom.xml
+matsim-maven-demo.iml
+jar_test
+target/matsim-maven-demo-1.0-SNAPSHOT.jar
+target/original-matsim-maven-demo-1.0-SNAPSHOT.jar
+target/classes/main/java/matsim/MatsimMavenDemo.class
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
